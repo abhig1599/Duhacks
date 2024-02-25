@@ -4,7 +4,7 @@ SheShield: Empowering women's safety with quick triggers, location sharing, and 
 For, 
 Frontend: XML 
 
-Backend: Java 
+Backend: Java, mongoDB
 
 Figma link: https://www.figma.com/file/MsK1BzshstBBczPwbxz8jy/SheShield?type=design&mode=design&t=lSLEzV0Hreh3uW20-1
 
